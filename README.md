@@ -7,5 +7,5 @@ The application consists of 3  classes:
  - Controller: A class to control the robot and give it the commands, The robot is created and passed to this class to be controlled.
  - Tests: RobotTest and ControllerTest classes have been created to test the main functionalities.
 
-To run the application, open it in a IDE and run the App.java class
+To run the application, download the zip file and run the App.java class in a IDE like intellij. 
 The tests can be run as junit tests
